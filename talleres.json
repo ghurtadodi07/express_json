@@ -1,0 +1,34 @@
+{
+  "header": {
+    "codigoOperacionBackend": "0000",
+    "descripcionOperacionBackend": "Operación exitosa",
+    "codigoRespuesta": "0000",
+    "descripcionRespuesta": "Operación exitosa",
+    "tiempoRespuesta": 2807,
+    "horaRespuesta": "2021-11-01T18:14:18"
+  },
+  "resultado": {
+    "respuesta": [
+      {
+        "tel3": "0",
+        "rfc": "MAU010226M37",
+        "tel2": "6144232972",
+        "anexo": null,
+        "hora": null,
+        "oficinaregionalservicio": "C00",
+        "oficinaregionalsistema": "C00",
+        "indice_NORMALIZADO": "0"
+      },
+      {
+        "tel3": "",
+        "rfc": "IKM840514TR3",
+        "tel2": "",
+        "anexo": null,
+        "hora": null,
+        "oficinaregionalservicio": "C00",
+        "oficinaregionalsistema": "C00",
+        "indice_NORMALIZADO": "0"
+      }
+    ]
+  }
+}
