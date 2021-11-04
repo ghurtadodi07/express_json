@@ -17,8 +17,7 @@
         "hora": null,
         "oficinaregionalservicio": "C00",
         "oficinaregionalsistema": "C00",
-        "indice_NORMALIZADO": "0",
-        "idu": "3"
+        "indice_NORMALIZADO": "0"
       },
       {
         "tel3": "",
@@ -28,8 +27,7 @@
         "hora": null,
         "oficinaregionalservicio": "C00",
         "oficinaregionalsistema": "C00",
-        "indice_NORMALIZADO": "0",
-        "idu": "4"
+        "indice_NORMALIZADO": "0"
       }
     ]
   }

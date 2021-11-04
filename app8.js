@@ -6,7 +6,7 @@ async function makeRequest() {
         method : 'get',
         url    : 'https://prometeo-test.segurosatlas.com.mx/Catalogo/obtenerTalleres',
         headers: {
-            'authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJGQ0pPTU9QUjIiLCJpZHByb3ZlZWRvciI6MzYwLCJuYmYiOjE2MzU3ODkyNzksImFwYXRlcm5vIjoiVGVzdCIsImlzcyI6Im1pY3JvbmF1dCIsIm1vZHVsb3NhcHAiOlsiU2luaWVzdHJvIiwiIFNlZ3VpbWllbnRvIiwiIE1hcGFzIl0sImV4cCI6MTYzNTgyNTI3OSwiYW1hdGVybm8iOiJUZXN0IiwiaWF0IjoxNjM1Nzg5Mjc5LCJub21icmUiOiJGQ0pPTU9QUjIiLCJyb2wiOiJPcGVyYWRvciJ9.qDBv1uEtPk97OQPYlA8XuDlzT-Lh6__2IJqXWAjyJAs',
+            'authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJGQ0pPTU9QUjIiLCJpZHByb3ZlZWRvciI6MzYwLCJuYmYiOjE2MzU5ODk0MTcsImFwYXRlcm5vIjoiVGVzdCIsImlzcyI6Im1pY3JvbmF1dCIsIm1vZHVsb3NhcHAiOlsiU2luaWVzdHJvIiwiIFNlZ3VpbWllbnRvIiwiIE1hcGFzIl0sImV4cCI6MTYzNjAyNTQxNywiYW1hdGVybm8iOiJUZXN0IiwiaWF0IjoxNjM1OTg5NDE3LCJub21icmUiOiJGQ0pPTU9QUjIiLCJyb2wiOiJPcGVyYWRvciJ9.yDeE1nmCaSZMEma6LnvArrxouG3jA-JKTxYhW5teZlM',
             'Content-Type': 'application/json'
         }
     }
